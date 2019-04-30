@@ -1,0 +1,298 @@
+(0, 06-Apr-2017 02:10:11) Initializing PieLog
+(0, 06-Apr-2017 02:10:11) Initializing filemode variable
+(0, 06-Apr-2017 02:10:11) Initializing PieSpeech
+(0, 06-Apr-2017 02:10:11) Initializing PieVariables
+(0, 06-Apr-2017 02:10:11) Initializing PieCursorUnit
+(0, 06-Apr-2017 02:10:11) Initializing PieMouse
+(0, 06-Apr-2017 02:10:11) Initializing PieKeyboard
+(0, 06-Apr-2017 02:10:11) Initializing PieInput
+(0, 06-Apr-2017 02:10:11) Initializing PieOSC
+(0, 06-Apr-2017 02:10:11) Initializing PiePie
+(0, 06-Apr-2017 02:10:11) Initializing PieFunction
+(0, 06-Apr-2017 02:10:11) Initializing PieStatement
+(0, 06-Apr-2017 02:10:11) Initializing PieExpression
+(0, 06-Apr-2017 02:10:11) Initializing PieJoystick
+(0, 06-Apr-2017 02:10:12) Initializing PieP5
+(0, 06-Apr-2017 02:10:12) Initializing PieMidi
+(0, 06-Apr-2017 02:10:12) Initializing PiePPJoy
+(0, 06-Apr-2017 02:10:12) Initializing PieRemote
+(0, 06-Apr-2017 02:10:12) Initializing Pie Speech Recognition
+(0, 06-Apr-2017 02:10:12) Initializing PieScreen
+(0, 06-Apr-2017 02:10:12) GetMonitorEDID
+(0, 06-Apr-2017 02:10:12) Initializing PieWIndow
+(0, 06-Apr-2017 02:10:12) Initializing PieCursors
+(0, 06-Apr-2017 02:10:12) Initializing PieZ800
+(0, 06-Apr-2017 02:10:12) Initializing PieIntersense
+(0, 06-Apr-2017 02:10:12) Initializing PieFastrak
+(0, 06-Apr-2017 02:10:12) Initializing PiePPT
+(0, 06-Apr-2017 02:10:12) Initializing PieTrackIR
+(0, 06-Apr-2017 02:10:12) Initializing PiePinch
+(0, 06-Apr-2017 02:10:12) Initializing PieBird
+(0, 06-Apr-2017 02:10:12) Initializing PieFiveDT
+(0, 06-Apr-2017 02:10:12) Starting main
+(0, 06-Apr-2017 02:10:12) Application object initialized
+(0, 06-Apr-2017 02:10:12) Creating main window
+(0, 06-Apr-2017 02:10:12) EditorForm.Create
+(0, 06-Apr-2017 02:10:12) Checking command line parameters:
+(0, 06-Apr-2017 02:10:12) Creating debug window
+(0, 06-Apr-2017 02:10:12) Assigning exception handler
+(0, 06-Apr-2017 02:10:12) Creating debug remote control window
+(0, 06-Apr-2017 02:10:12) Running application
+(0, 06-Apr-2017 02:13:47) RunButton
+(0, 06-Apr-2017 02:13:47) Compile>Run
+(0, 06-Apr-2017 02:13:47) Compile>Compile
+(0, 06-Apr-2017 02:13:47) CompileCode
+(0, 06-Apr-2017 02:13:47) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:13:47) EnumerateJoysticks
+(0, 06-Apr-2017 02:13:48) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 02:13:48) StartCompileTimeP5 False
+(0, 06-Apr-2017 02:13:48) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:13:48) StartRuntime
+(0, 06-Apr-2017 02:13:48) StartKeyboardMonitor
+(0, 06-Apr-2017 02:13:48) StartingInputMonitor keyboard
+(0, 06-Apr-2017 02:13:53) StartRuntimeJoystick
+(0, 06-Apr-2017 02:13:53) ************************* False
+(0, 06-Apr-2017 02:13:59) StopButton
+(0, 06-Apr-2017 02:13:59) Compile>Stop
+(0, 06-Apr-2017 02:13:59) StopRuntime
+(0, 06-Apr-2017 02:13:59) StopKeyboardMonitor
+(0, 06-Apr-2017 02:13:59) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 02:13:59) StopRuntimeJoystick
+(0, 06-Apr-2017 02:15:47) RunButton
+(0, 06-Apr-2017 02:15:47) Compile>Run
+(0, 06-Apr-2017 02:15:47) Compile>Compile
+(0, 06-Apr-2017 02:15:47) CompileCode
+(0, 06-Apr-2017 02:15:47) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:15:47) EnumerateJoysticks
+(0, 06-Apr-2017 02:15:48) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 02:15:48) StartCompileTimeP5 False
+(0, 06-Apr-2017 02:15:48) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:15:48) StartRuntime
+(0, 06-Apr-2017 02:15:48) StartKeyboardMonitor
+(0, 06-Apr-2017 02:15:48) StartingInputMonitor keyboard
+(0, 06-Apr-2017 02:15:48) StartRuntimeJoystick
+(0, 06-Apr-2017 02:15:48) ************************* False
+(0, 06-Apr-2017 02:15:49) StopButton
+(0, 06-Apr-2017 02:15:49) Compile>Stop
+(0, 06-Apr-2017 02:15:49) StopRuntime
+(0, 06-Apr-2017 02:15:49) StopKeyboardMonitor
+(0, 06-Apr-2017 02:15:49) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 02:15:49) StopRuntimeJoystick
+(0, 06-Apr-2017 02:16:37) RunButton
+(0, 06-Apr-2017 02:16:37) Compile>Run
+(0, 06-Apr-2017 02:16:37) Compile>Compile
+(0, 06-Apr-2017 02:16:37) CompileCode
+(0, 06-Apr-2017 02:16:37) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:16:37) EnumerateJoysticks
+(0, 06-Apr-2017 02:16:37) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 02:16:37) StartCompileTimeP5 False
+(0, 06-Apr-2017 02:16:37) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:16:37) StartRuntime
+(0, 06-Apr-2017 02:16:37) StartKeyboardMonitor
+(0, 06-Apr-2017 02:16:37) StartingInputMonitor keyboard
+(0, 06-Apr-2017 02:16:39) StopButton
+(0, 06-Apr-2017 02:16:39) Compile>Stop
+(0, 06-Apr-2017 02:16:39) StopRuntime
+(0, 06-Apr-2017 02:16:39) StopKeyboardMonitor
+(0, 06-Apr-2017 02:16:39) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 02:16:39) StopRuntimeJoystick
+(0, 06-Apr-2017 02:16:42) StartRuntimeJoystick
+(0, 06-Apr-2017 02:16:42) ************************* False
+(0, 06-Apr-2017 02:16:51) RunButton
+(0, 06-Apr-2017 02:16:51) Compile>Run
+(0, 06-Apr-2017 02:16:51) Compile>Compile
+(0, 06-Apr-2017 02:16:51) CompileCode
+(0, 06-Apr-2017 02:16:51) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:16:51) EnumerateJoysticks
+(0, 06-Apr-2017 02:16:51) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 02:16:51) StartCompileTimeP5 False
+(0, 06-Apr-2017 02:16:51) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:16:51) StartRuntime
+(0, 06-Apr-2017 02:16:51) StartKeyboardMonitor
+(0, 06-Apr-2017 02:16:51) StartingInputMonitor keyboard
+(0, 06-Apr-2017 02:16:51) StartRuntimeJoystick
+(0, 06-Apr-2017 02:16:51) ************************* False
+(0, 06-Apr-2017 02:20:06) StopButton
+(0, 06-Apr-2017 02:20:06) Compile>Stop
+(0, 06-Apr-2017 02:20:06) StopRuntime
+(0, 06-Apr-2017 02:20:06) StopKeyboardMonitor
+(0, 06-Apr-2017 02:20:06) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 02:20:07) StopRuntimeJoystick
+(0, 06-Apr-2017 02:20:10) RunButton
+(0, 06-Apr-2017 02:20:10) Compile>Run
+(0, 06-Apr-2017 02:20:10) Compile>Compile
+(0, 06-Apr-2017 02:20:10) CompileCode
+(0, 06-Apr-2017 02:20:10) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:20:10) EnumerateJoysticks
+(0, 06-Apr-2017 02:20:10) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 02:20:10) StartCompileTimeP5 False
+(0, 06-Apr-2017 02:20:10) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 02:20:10) StartRuntime
+(0, 06-Apr-2017 02:20:10) StartKeyboardMonitor
+(0, 06-Apr-2017 02:20:10) StartingInputMonitor keyboard
+(0, 06-Apr-2017 02:20:12) StartRuntimeJoystick
+(0, 06-Apr-2017 02:20:12) ************************* False
+(0, 06-Apr-2017 02:20:13) StopButton
+(0, 06-Apr-2017 02:20:13) Compile>Stop
+(0, 06-Apr-2017 02:20:13) StopRuntime
+(0, 06-Apr-2017 02:20:13) StopKeyboardMonitor
+(0, 06-Apr-2017 02:20:13) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 02:20:14) StopRuntimeJoystick
+(0, 06-Apr-2017 03:29:31) FormCloseQuery
+(0, 06-Apr-2017 03:29:31) Compile>Stop
+(0, 06-Apr-2017 03:29:47) RunButton
+(0, 06-Apr-2017 03:29:47) Compile>Run
+(0, 06-Apr-2017 03:29:47) Compile>Compile
+(0, 06-Apr-2017 03:29:47) CompileCode
+(0, 06-Apr-2017 03:29:47) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:29:47) EnumerateJoysticks
+(0, 06-Apr-2017 03:29:47) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 03:29:47) StartCompileTimeP5 False
+(0, 06-Apr-2017 03:29:47) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:29:47) StartRuntime
+(0, 06-Apr-2017 03:29:47) StartKeyboardMonitor
+(0, 06-Apr-2017 03:29:47) StartingInputMonitor keyboard
+(0, 06-Apr-2017 03:29:50) StopButton
+(0, 06-Apr-2017 03:29:50) Compile>Stop
+(0, 06-Apr-2017 03:29:50) StopRuntime
+(0, 06-Apr-2017 03:29:50) StopKeyboardMonitor
+(0, 06-Apr-2017 03:29:50) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 03:29:50) StopRuntimeJoystick
+(0, 06-Apr-2017 03:29:50) StartRuntimeJoystick
+(0, 06-Apr-2017 03:29:50) ************************* False
+(0, 06-Apr-2017 03:29:52) Midi GUI Page
+(0, 06-Apr-2017 03:29:52) CompileCodeA
+(0, 06-Apr-2017 03:29:52) CompileCode
+(0, 06-Apr-2017 03:29:52) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:29:52) EnumerateJoysticks
+(0, 06-Apr-2017 03:29:52) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 03:29:52) StartCompileTimeP5 False
+(0, 06-Apr-2017 03:29:52) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:29:52) SetMidiLine(5)
+(0, 06-Apr-2017 03:29:52) Midi DeviceBoxChange
+(0, 06-Apr-2017 03:29:52) Midi ChannelBoxChange
+(0, 06-Apr-2017 03:29:52) Midi CategoryBox change
+(0, 06-Apr-2017 03:29:52) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:52) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:52) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:52) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:52) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:52) Midi ChannelBoxChange
+(0, 06-Apr-2017 03:29:52) Midi CategoryBox change
+(0, 06-Apr-2017 03:29:52) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:52) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:52) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:52) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:52) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:52) Midi CategoryBox change
+(0, 06-Apr-2017 03:29:52) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:52) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:52) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:52) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:52) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:52) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:53) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:29:53) EnumerateJoysticks
+(0, 06-Apr-2017 03:29:53) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 03:29:53) StartingInputMonitor Mouse
+(0, 06-Apr-2017 03:29:53) StartKeyboardMonitor
+(0, 06-Apr-2017 03:29:53) StartingInputMonitor keyboard
+(0, 06-Apr-2017 03:29:53) StartRuntimeJoystick
+(0, 06-Apr-2017 03:29:53) StartJoystickMonitor
+(0, 06-Apr-2017 03:29:53) StartingInputMonitor Joystick
+(0, 06-Apr-2017 03:29:53) EnumerateJoysticks
+(0, 06-Apr-2017 03:29:53) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 03:29:53) CreateJoystickDevices
+(0, 06-Apr-2017 03:29:53) CreateForceFeedbackDevices
+(0, 06-Apr-2017 03:29:56) StoppingInputMonitor Mouse
+(0, 06-Apr-2017 03:29:56) StopKeyboardMonitor
+(0, 06-Apr-2017 03:29:56) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 03:29:56) StopRuntimeJoystick
+(0, 06-Apr-2017 03:29:56) StopJoystickMonitor
+(0, 06-Apr-2017 03:29:56) StoppingInputMonitor Joystick
+(0, 06-Apr-2017 03:29:56) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:56) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:56) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:56) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:56) Midi DeviceBoxChange
+(0, 06-Apr-2017 03:29:56) Midi ChannelBoxChange
+(0, 06-Apr-2017 03:29:56) Midi CategoryBox change
+(0, 06-Apr-2017 03:29:56) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:56) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:56) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:56) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:56) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:56) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:56) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:56) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:56) MidiFieldBoxClick
+(0, 06-Apr-2017 03:29:56) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:56) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:56) MidiOpBoxChange
+(0, 06-Apr-2017 03:29:57) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:29:57) MidiFuncBoxChange
+(0, 06-Apr-2017 03:29:57) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:29:57) EnumerateJoysticks
+(0, 06-Apr-2017 03:29:57) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 03:29:57) StartCompileTimeP5 False
+(0, 06-Apr-2017 03:29:57) StartingInputMonitor Mouse
+(0, 06-Apr-2017 03:29:57) StartKeyboardMonitor
+(0, 06-Apr-2017 03:29:57) StartingInputMonitor keyboard
+(0, 06-Apr-2017 03:29:57) StartRuntimeJoystick
+(0, 06-Apr-2017 03:29:57) ************************* True
+(0, 06-Apr-2017 03:29:57) Start Glove Monitor
+(0, 06-Apr-2017 03:30:05) StoppingInputMonitor Mouse
+(0, 06-Apr-2017 03:30:05) StopKeyboardMonitor
+(0, 06-Apr-2017 03:30:05) StoppingInputMonitor Keyboard
+(0, 06-Apr-2017 03:30:05) StopRuntimeJoystick
+(0, 06-Apr-2017 03:30:05) StopJoystickMonitor
+(0, 06-Apr-2017 03:30:05) StoppingInputMonitor Joystick
+(0, 06-Apr-2017 03:30:05) StopGloveMonitor
+(0, 06-Apr-2017 03:30:05) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:30:05) MidiFuncBoxChange
+(0, 06-Apr-2017 03:30:09) MidiApplyButtonClick
+(0, 06-Apr-2017 03:30:09) MidiDeleteButtonClick
+(0, 06-Apr-2017 03:30:09) Midi GUI Page
+(0, 06-Apr-2017 03:30:09) CompileCodeA
+(0, 06-Apr-2017 03:30:09) CompileCode
+(0, 06-Apr-2017 03:30:09) StartingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:30:09) EnumerateJoysticks
+(0, 06-Apr-2017 03:30:10) Enumerated... BadGamePad = False
+(0, 06-Apr-2017 03:30:10) StartCompileTimeP5 True
+(0, 06-Apr-2017 03:30:10) StoppingInputMonitor CompileJoystick
+(0, 06-Apr-2017 03:30:10) SetMidiLine(2)
+(0, 06-Apr-2017 03:30:10) Midi CategoryBox change
+(0, 06-Apr-2017 03:30:10) MidiFieldBoxClick
+(0, 06-Apr-2017 03:30:10) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFuncBoxChange
+(0, 06-Apr-2017 03:30:10) MidiOpBoxChange
+(0, 06-Apr-2017 03:30:10) Midi DeviceBoxChange
+(0, 06-Apr-2017 03:30:10) Midi ChannelBoxChange
+(0, 06-Apr-2017 03:30:10) Midi CategoryBox change
+(0, 06-Apr-2017 03:30:10) MidiFieldBoxClick
+(0, 06-Apr-2017 03:30:10) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFuncBoxChange
+(0, 06-Apr-2017 03:30:10) MidiOpBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFieldBoxClick
+(0, 06-Apr-2017 03:30:10) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFuncBoxChange
+(0, 06-Apr-2017 03:30:10) MidiOpBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFieldBoxClick
+(0, 06-Apr-2017 03:30:10) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFuncBoxChange
+(0, 06-Apr-2017 03:30:10) MidiOpBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFieldBoxClick
+(0, 06-Apr-2017 03:30:10) MidiSourceDeviceBoxChange
+(0, 06-Apr-2017 03:30:10) MidiFuncBoxChange
+(0, 06-Apr-2017 03:30:10) MidiOpBoxChange
+(0, 06-Apr-2017 03:30:11) Script Page
+(0, 06-Apr-2017 03:30:33) FormCloseQuery
+(0, 06-Apr-2017 03:30:33) Compile>Stop
